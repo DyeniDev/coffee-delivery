@@ -21,12 +21,9 @@ The technologies used in this project:
 - [TypeScript;]
 - [StyledComponents;]
 - [Zod;]
-- [ReactHookForm.]
-- [ReactRouterDom](https://reactrouter.com/)
+- [ReactHookForm;]
+- [ReactRouterDom.]
 
 
-```
-
----
 
 Made with ♥ by Dyeni 👋🏻
