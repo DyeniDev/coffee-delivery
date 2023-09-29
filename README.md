@@ -5,24 +5,23 @@
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to Use</a>
 </p>
 
 <br/>
 
 ## 💻 Project
 
-This is a project made entirely in React for an e-commerce coffee sales site to improve concepts such as Context API, Router, form validation through react-hook-form, and zod and styled components for styling.
+This project is built exclusively using React, designed to enhance various core concepts including Context API, Router, form validation utilizing react-hook-form, and styling achieved through a combination of Zod and Styled Components. It is tailored for an e-commerce platform dedicated to coffee sales.
 
 ## 🚀 Technologies
 
-This project was developed with the following technologies:
+The technologies used in this project:
 
-- [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [StyledComponents](https://www.styled-components.com/)
-- [Zod](https://zod.dev/)
-- [ReactHookForm](https://react-hook-form.com/)
+- [React;]
+- [TypeScript;]
+- [StyledComponents;]
+- [Zod;]
+- [ReactHookForm.]
 - [ReactRouterDom](https://reactrouter.com/)
 
 
